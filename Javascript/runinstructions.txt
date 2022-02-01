@@ -1,0 +1,6 @@
+Run instructions
+
+1. Install NPM & package.lock
+2. Add vars to global.js currently they are filler values. This will involve a Key contract and an Etherscan API key
+3. run NPM start
+
